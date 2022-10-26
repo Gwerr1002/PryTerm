@@ -1,0 +1,8 @@
+https://vtk.org/
+https://itk.org/
+https://pypi.org/project/vtk/
+https://pypi.org/project/itk/
+
+enlace a volumenes y referencias
+
+https://www.dropbox.com/home/Gerardo%20Ortiz/vols
