@@ -1,7 +1,7 @@
 from vtk import vtkDICOMImageReader as dcmReader
 from vtk import *
 
-pathimage = "..\..\Volumenes\IMG_20211012_18.4dv\IMAGE\Y2018M12\D10\E0000001\I0000034.dcm"
+pathimage = "..\..\..\Volumenes\IMG_20211012_18.4dv\IMAGE\Y2018M12\D10\E0000001\I0000034.dcm"
 source = dcmReader()
 #leer DICOM, tambien se puede leer directorio con SetDirectoryName
 source.SetFileName(pathimage)
